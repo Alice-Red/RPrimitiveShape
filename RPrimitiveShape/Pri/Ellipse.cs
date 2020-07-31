@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace RUtil.Shape
+namespace RUtil.Shape.Pri
 {
-    class Shape
+    // 楕円
+    public class Ellipse : Circle
     {
     }
 }
