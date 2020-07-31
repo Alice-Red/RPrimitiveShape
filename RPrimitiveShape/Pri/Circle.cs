@@ -4,7 +4,7 @@ using System.Text;
 
 namespace RUtil.Shape
 {
-    class Circle
+    public class Circle:
     {
     }
 }

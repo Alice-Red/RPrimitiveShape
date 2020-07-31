@@ -2,7 +2,7 @@
 
 namespace RUtil.Shape
 {
-    public interface Point
+    public interface IPoint
     {
         double X { get; set; }
         double Y { get; set; }
