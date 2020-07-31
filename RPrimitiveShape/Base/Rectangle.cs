@@ -6,5 +6,9 @@ namespace RUtil.Shape
 {
     public class Rectangle : IShape
     {
+
+
+
+
     }
 }
