@@ -6,6 +6,6 @@ namespace RUtil.Shape
 {
     public interface IShape
     {
-        public abstract bool IsInside(IPoint p);
+
     }
 }

@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace RUtil.Shape
+namespace RUtil.Shape.Pri
 {
-    public class Rectangle : IShape
+    // 正方形
+    public class Square : Rectangle
     {
     }
 }
